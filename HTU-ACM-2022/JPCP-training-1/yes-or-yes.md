@@ -16,7 +16,7 @@ You can output "**YES**" and "**NO**" in any case (for example, strings "**yES**
 #
 
 
-## My solution
+### My solution
 For **t** times, receive a string, convert that string to lowercase. If it's equal to "**yes**", then print **YES**. Else print **NO**.
 
 ### My code (**Python**):
